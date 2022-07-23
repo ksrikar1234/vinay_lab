@@ -1,3 +1,6 @@
+
+https://www.hackerearth.com/challenges/test/nit-ap-qa-1-campus-2023/?login=8fba098522f054e92a43f948a7b1ff1e
+
 #include <bits/stdc++.h>
 #include<iostream>
 #include<vector>
