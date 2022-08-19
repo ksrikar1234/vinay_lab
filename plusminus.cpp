@@ -4,7 +4,7 @@ https://www.interviewbit.com/ahoy/messages/QeSfFVouRqwUiDU60YiFuk0RsSCFBIxK/clic
 #include <bits/stdc++.h>
 #include<iostream>
 #include<vector>
-
+https://vyacas2.ajira.tech/web?access_token=c8b1340b-adde-4c02-92a2-6ff340345c5e
 using namespace std;
 
 string ltrim(const string &);
